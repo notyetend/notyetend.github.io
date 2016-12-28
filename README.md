@@ -1,8 +1,5 @@
-# NNfML
-#######신경망회로 #코세라 #머신러닝 #한글 #제프리힌튼
-
-<u>Coursera에 Geoffrey Hinton 교수님 진행하는 [Neural Networks for Machine Learning] 강의를 정리한 페이지 입니다.</u>
-
+##Neural Networks for Machine Learning, Geoffrey Hinton, Coursera   
+강의 정리
 
 <a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture1.html">Lecture1, Introduction</a>
 
