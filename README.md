@@ -1,4 +1,4 @@
-####Neural Networks for Machine Learning, Geoffrey Hinton, Coursera   
+#### Neural Networks for Machine Learning, Geoffrey Hinton, Coursera   
 2016.10.17부터 2017.01.30까지 강의 수강 내용 정리
 
 <a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture1.html">Lecture1, Introduction</a>
