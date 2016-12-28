@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# NNfML
+#######신경망회로 #코세라 #머신러닝 #한글 #제프리힌튼
 
-You can use the [editor on GitHub](https://github.com/notyetend/notyetend.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<u>Coursera에 Geoffrey Hinton 교수님 진행하는 [Neural Networks for Machine Learning] 강의를 정리한 페이지 입니다.</u>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture1.html">Lecture1, Introduction</a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture2.html">Lecture2, The Perceptron learning procedure</a>
 
-```markdown
-Syntax highlighted code block
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture3.html">Lecture3, The backpropagation learning procedure, w/PA1</a>
 
-# Header 1
-## Header 2
-### Header 3
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture4.html">Lecture4, Learning feature vectors for words</a>
 
-- Bulleted
-- List
+Lecture5, Object reconition with neural nets, w/PA2
 
-1. Numbered
-2. List
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture6.html">Lecture6, Optimization: How to make the learning go faster</a>
 
-**Bold** and _Italic_ and `Code` text
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture7.html">Lecture7, Recurrent neural networks</a>
 
-[Link](url) and ![Image](src)
-```
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture8.html">Lecture8, More recurrent neural networks</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture9.html">Lecture9, Ways to make neural networks generalize better, w/PA3</a>
 
-### Jekyll Themes
+Lecture10, Combining multiple neural networks to improve generalization
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notyetend/notyetend.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture11.html">Lecture11, Hopfiend nets and Boltzmann machines</a>
 
-### Support or Contact
+<a href="https://rawgit.com/notyetend/NNfML/master/notes/Neural_Networks_Lecture12.html">Lecture12, Restricted Boltzmann machines(RBMs)</a>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Lecture13, Stacking RBMs to make Deep Belief Nets, w/PA4
+
+Lecture14, Deep neural nets with generative pre-training
+
+Lecture15, Modeling hierarchical structure with neural nets, w/Final exm
+
+Lecture16, Recent applications of deep neural nets
