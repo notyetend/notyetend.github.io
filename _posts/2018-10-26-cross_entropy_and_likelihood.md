@@ -3,7 +3,6 @@ layout: post
 title: "test"
 date: 2018-10-30 08:26:28 +0900
 categories: stat
-mathjax: true
 ---
 
 ###### test
