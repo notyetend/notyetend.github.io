@@ -12,4 +12,4 @@ $$\begin{align}
 \mathbb{I}(X=x_k) & \triangleq - \log p(X=x_k) \\
 & = - \log p_k
 \end{align}$$
-\
+test
