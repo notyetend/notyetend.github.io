@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-#  name             : "NYT"
+  name             : "NYT"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Machine Learning and AI Practitioner | Data Scientist"
   location         : "Seoul, Korea"
