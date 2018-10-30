@@ -1,11 +1,3 @@
-
----
-title: "Cross entropy, Likelihood 그리고 mse"
-date: 2018-10-30 08:26:28 -0400
-categories: .
-
----
-
 ###### Information
 
 $$\begin{align}
