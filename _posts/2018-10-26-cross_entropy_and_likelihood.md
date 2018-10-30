@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cross entropy, Likelihood 그리고 mse"
+title: "Cross entropy, Likelihood and MSE"
 date: 2018-10-30 08:26:28 +0900
 categories: stat
 math: true
