@@ -11,14 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "NYT's blog"
 title_separator          : "-"
-name                     : "Bogus"
+name                     : "NYT"
 description              : ""
 url                      : "https://notyetend.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
@@ -100,13 +100,13 @@ analytics:
 
 
 # Site Author
-#author:
+author:
 #  name             : "NYT"
-#  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-#  bio              : "Machine Learning and AI Practitioner | Data Scientist"
-#  location         : "Seoul, Korea"
-#  email            :
-#  links:
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Machine Learning and AI Practitioner | Data Scientist"
+  location         : "Seoul, Korea"
+  email            :
+  links:
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      # url: mailto:your.name@email.com
@@ -118,26 +118,26 @@ analytics:
 #      # url: "https://twitter.com/"
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
-#      # url: "https://facebook.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      # url: "https://github.com/"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+       icon: "fab fa-fw fa-github"
+        url: "https://github.com/notyetend"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
-#      # url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
 # Site Footer
-footer:
-  links:
+#footer:
+#  links:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      # url:
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: https://github.com/notyetend
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#       url: https://github.com/notyetend
 #    - label: "GitLab"
 #      icon: "fab fa-fw fa-gitlab"
 #      # url:
