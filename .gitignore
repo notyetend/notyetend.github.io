@@ -1,4 +1,4 @@
 .idea/**
 *.iml
 *.smp
-/tmp
+/_ignore
