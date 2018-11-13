@@ -362,7 +362,7 @@ $\eta_{min}$은 0이나 0.1이고, $R$은 1보다 작고 1에 가까운 수를 �
 
 - interpolation 결과를 보면 $L_{KL}$이 작을 수록 interpolation으로 생성한 그림이 보다 (보기에) 유의미(more coherent) 했고, 이는 $L_{KL}$이 작을 수록 $z$ 벡터가 보다 유의미한 정보를 함축한다는 것을 의미한다.
 
-###### 참고자료
+### 참고자료
 
 - paper: https://arxiv.org/abs/1704.03477
 - drawing test: https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
