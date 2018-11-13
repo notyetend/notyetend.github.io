@@ -220,7 +220,7 @@ def tf_2d_normal(x1, x2, mu1, mu2, s1, s2, rho):
 result0 = tf_2d_normal(x1_data, x2_data, z_mu1, z_mu2, z_sigma1, z_sigma2,
                            z_corr)
 ```
->  'A. Graves. Generating sequences with recurrent neural networks'의 수식 (24)가 $M$개 있는... $\big\{ \mathcal{N}(x_{t+1} \mid \mu_t^j, \sigma_t^j, \rho_t^j) \big\}_{j=1}^M$에 해당하며, $P(\text{data} \mid \text{hypothesis})$들이라 할 수 있다. 즉 네트워크가 학습한 gaussian에 대한 파라미터를 사용했을 때, 학습 데이터가 관측될 확률을 계산한다. (그런데 gaussian을 mix하는건 다음 단계에 등장한다.)
+>  'A. Graves. Generating sequences with recurrent neural networks'의 수식 (24)가 $M$개 있는... $ \big\{  \mathcal{N}(x_{t+1} \mid \mu_t^j, \sigma_t^j, \rho_t^j) \big\}_{j=1}^M $에 해당하며, $P(\text{data} \mid \text{hypothesis})$들이라 할 수 있다. 즉 네트워크가 학습한 gaussian에 대한 파라미터를 사용했을 때, 학습 데이터가 관측될 확률을 계산한다. (그런데 gaussian을 mix하는건 다음 단계에 등장한다.)
 
 ```Python
 result1 = tf.multiply(result0, z_pi)
